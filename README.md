@@ -7,6 +7,9 @@ Uma aplicação web simples e dinâmica que exibe uma barra de progresso em temp
 
 O objetivo deste projeto é calcular o tempo restante entre o momento atual e a próxima sexta-feira às 00:00. A barra de progresso utiliza um ciclo de 7 dias (da sexta anterior até a próxima) para mostrar a evolução da semana.
 
+
+![Demonstração da Aplicação](demonstracao.png)
+
 ### ✨ Funcionalidades
 - **Barra de Progresso Dinâmica:** Atualizada em tempo real via JavaScript.
 - **Contagem Regressiva:** Exibição detalhada em dias, horas, minutos e segundos.
